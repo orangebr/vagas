@@ -1,4 +1,4 @@
-<img src="https://github.com/pagarme.png" width="127px" align="left"/>
+<img src="[https://github.com/pagarme.png](https://avatars.githubusercontent.com/u/64099793?s=200&v=4)" width="127px" align="left"/>
 
 # Venha para a Orange Labs
 :handshake: Faça parte do nosso time: (https://jobs.quickin.io/pigz)
