@@ -1,4 +1,4 @@
-## desafio-frontend-mobile-pigz
+# desafio-frontend-mobile-pigz
 Desafio para a vaga de desenvolvedor front-end mobile na Pigz. 
 
 ## Regras básicas
