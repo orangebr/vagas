@@ -1,4 +1,4 @@
-## desafio-frontend-pigz
+# desafio-frontend-pigz
 Desafio para a vaga de desenvolvedor front-end na Pigz. 
 
 ## Regras básicas
