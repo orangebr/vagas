@@ -1,4 +1,4 @@
-# desagio-designer-pigz
+# desafio-designer-pigz
 Desafio para a vaga de Designer UI/UX na Pigz.
 
 
