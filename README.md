@@ -1,5 +1,8 @@
 <img src="https://orangelabs.com.br/logos/logo-orange.svg" width="127px" align="left"/>
 
+<br />
+<br />
+
 # Venha para a Orange Labs
 :handshake: Faça parte do nosso time: (https://jobs.quickin.io/pigz)
 
