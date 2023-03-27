@@ -1,0 +1,14 @@
+version: '3'
+# Como você faria para subir esses 2 containers configurados com os arquivos e portas certas?
+
+# services:
+
+  # php-fpm:
+    # build:
+    # volumes:
+    # ports?
+
+  # nginx:
+  #   build: 
+  #   volumes:
+  #   ports:
