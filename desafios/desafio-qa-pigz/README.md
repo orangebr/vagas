@@ -82,10 +82,10 @@ Esse bug tem um alto impacto, pois permite que entregadores sem CPF válido poss
 
 Para relatar esse bug, a equipe utiliza o Azure Boards como gerenciador de tarefas. Seu desafio é simular a criação de um card no Azure Boards, incluindo as seguintes informações (imagine que você já anexou as evidências como fotos e vídeos):
 
-**- Descrição do bug.**
-**- Passos para reproduzir o bug.**
-**- Prioridade do bug.**
-**- Possíveis impactos no sistema.**
+**- Descrição do bug.**  
+**- Passos para reproduzir o bug.**  
+**- Prioridade do bug.**  
+**- Possíveis impactos no sistema.**  
 
 **Informações adicionais:**
 
