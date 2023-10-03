@@ -80,7 +80,7 @@ Agora, vamos ao bug que você encontrou: ao cadastrar um entregador, o sistema p
 
 Esse bug tem um alto impacto, pois permite que entregadores sem CPF válido possam ser cadastrados no sistema, o que pode afetar a segurança e confiabilidade do serviço. Além disso, esse bug também pode afetar a integração com outras ferramentas, como o sistema de emissão de notas fiscais.
 
-Para relatar esse bug, a equipe utiliza o Azure Boards como gerenciador de tarefas. Seu desafio é simular a criação de um card no Azure Boards, incluindo as seguintes informações (imagine que você já anexou as evidências como fotos e vídeos):
+Para relatar esse bug, a equipe utiliza o JIRA como gerenciador de tarefas. Seu desafio é simular a criação de um card no JIRA, incluindo as seguintes informações (imagine que você já anexou as evidências como fotos e vídeos):
 
 **- Descrição do bug.**  
 **- Passos para reproduzir o bug.**  
@@ -93,4 +93,4 @@ A equipe de desenvolvimento responsável pelo site é composta por três pessoas
 
 Após a criação do card, é importante notificar o desenvolvedor responsável pela funcionalidade e acompanhá-lo até que o bug seja corrigido e testado. Também é importante comunicar a equipe de gerenciamento de projetos sobre o bug encontrado e seus impactos, para que possam avaliar as prioridades do projeto e as possíveis consequências. Lembre-se de que uma boa comunicação na equipe ajuda a garantir que todos os envolvidos estejam alinhados e trabalhando na mesma direção para entregar um produto de qualidade.
 
-Sendo assim, descreva quais passos você tomaria após a criação do card no Azure, relate com quem você falaria e de que forma agiria para que o problema encontrado fosse resolvido.
+Sendo assim, descreva quais passos você tomaria após a criação do card no JIRA, relate com quem você falaria e de que forma agiria para que o problema encontrado fosse resolvido.
